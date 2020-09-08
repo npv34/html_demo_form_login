@@ -1,0 +1,18 @@
+.content {
+    background-color: aquamarine;
+    width: 400px;
+}
+
+table {
+    width: 100%;
+}
+
+.title-login {
+    text-align: center;
+    /*border: 1px solid black;*/
+}
+
+input {
+    width: 95%;
+}
+
